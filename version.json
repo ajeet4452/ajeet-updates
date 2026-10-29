@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.37",
+  "versionCode": 45,
+  "versionName": "1.0.45",
   "apkUrl": "https://github.com/ajeet4452/ajeet-updates/releases/download/latest/ajeet.apk",
-  "notes": "Cortex Vision build: nine drawers, in-app updater, five fixes (file protect, document reader, instant reader, creator formats, PDF drawer)"
+  "notes": "Cortex Vision 1.0.45: eight drawers and 89 tools, Quick Access, voice search, Workspace chain, text size, signature, backup/restore, AI summary in the reader"
 }
