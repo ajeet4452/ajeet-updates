@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.1",
+  "versionCode": 37,
+  "versionName": "1.0.37",
   "apkUrl": "https://github.com/ajeet4452/ajeet-updates/releases/download/latest/ajeet.apk",
-  "notes": "Nine drawers, three tools per row, audio transcription, talking camera"
+  "notes": "Cortex Vision build: nine drawers, in-app updater, five fixes (file protect, document reader, instant reader, creator formats, PDF drawer)"
 }
